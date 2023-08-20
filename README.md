@@ -4,36 +4,40 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+Node:
+
+### `>=18.17.1`
+
+En el directorio del proyecto, puede ejecutar:
+
+### `npm install`
+
+Despues puede ejecutar:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ejecuta la aplicación en el modo de desarrollo.\
+Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies
 
-### `npm run build`
+### Material UI
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You can learn more in the [Material UI](https://mui.com/).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Zod
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+You can learn more in the [Zod](https://zod.dev/).
 
-## Learn More
+### Resolvers
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Resolvers](https://github.com/react-hook-form/resolvers).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### React Hook Form
 
-### Deployment
+You can learn more in the [React Hook Form](https://www.react-hook-form.com/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### React Hot Toast
 
-### `npm run build` fails to minify
+You can learn more in the [React Hot Toast](https://react-hot-toast.com/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
